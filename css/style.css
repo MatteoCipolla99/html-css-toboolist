@@ -15,6 +15,35 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
+.btn {
+    background: transparent;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 3px;
+}
+
+.btn-blue {
+    background-color: #14AAF5;
+    color: #ffffff;
+    border-color: #14AAF5;
+}
+
+.btn-white {
+    background-color: white;
+    color: lightgray;
+    border-color: #white;
+}
+
+
+
+
+
+
 /*----------------------
     PAGE HEADER 
 -----------------------*/
@@ -34,4 +63,16 @@ h1 {
 
 .logo {
     vertical-align: middle;
+}
+
+
+/*----------------------
+    PAGE MAIN
+-----------------------*/
+main {
+    background-color: #ffffff;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
 }
