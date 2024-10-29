@@ -13,6 +13,11 @@
 body {
     background-color: #ccc;
     font-family: "Roboto", sans-serif;
+    font: size 15px;
+}
+
+.titoli-task{
+    color: #434851;
 }
 
 ul {
@@ -92,6 +97,15 @@ li{
     background-color: #FF9B00;
     
 }
+.tag-pink {
+    background-color: #EC4A9D;
+    
+}
+.tag-lime {
+    background-color: #A3D116;
+    
+}
+
 
 /*----------------------
     PAGE HEADER 
