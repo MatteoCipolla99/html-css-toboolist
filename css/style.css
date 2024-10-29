@@ -19,6 +19,18 @@ ul {
     list-style: none;
 }
 
+div{
+    margin: 10px;
+}
+
+h2{
+    margin: 15px;
+}
+
+li{
+    margin: 15px;
+}
+
 .btn {
     background: transparent;
     border: 1px solid;
@@ -47,7 +59,13 @@ ul {
     border: 1px solid green;
     border-radius: 100%;
     color: green;
+    margin:
     /* padding: 10px; */
+}
+
+.circle-1{
+    color: red;
+    border: 1px solid red;
 }
 
 .tag {
@@ -62,14 +80,18 @@ ul {
     background-color: #14AAF5;
     
 }
-
-
-
-
-
-
-
-
+.tag-purple {
+    background-color: #ab5de6;
+    
+}
+.tag-green {
+    background-color: #2CC6AB;
+    
+}
+.tag-orange {
+    background-color: #FF9B00;
+    
+}
 
 /*----------------------
     PAGE HEADER 
