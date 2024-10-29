@@ -16,16 +16,17 @@ body {
     font: size 15px;
 }
 
-.titoli-task{
-    color: #434851;
-}
 
 ul {
     list-style: none;
 }
 
+.titoli-task{
+    color: #434851;
+}
+
 div{
-    margin: 10px;
+    margin:10px;
 }
 
 h2{
