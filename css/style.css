@@ -39,6 +39,33 @@ ul {
     border-color: #white;
 }
 
+.circle {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 100%;
+    color: green;
+    /* padding: 10px; */
+}
+
+.tag {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 8px 12px;
+    border-radius: 12px;
+}
+
+.tag-blue {
+    background-color: #14AAF5;
+    
+}
+
+
+
+
 
 
 
